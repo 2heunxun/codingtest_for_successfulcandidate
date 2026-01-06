@@ -10,10 +10,10 @@ class Solution7 {
     private static final HashMap<Character,int[]> location = new HashMap<>();
 
     private static void initLocation(){
-        location.put('U', new int[]{0,1});
-        location.put('R', new int[]{1,0});
-        location.put('L', new int[]{-1,0});
-        location.put('D', new int[]{0,-1});
+            location.put('U', new int[]{0,1});
+            location.put('R', new int[]{1,0});
+            location.put('L', new int[]{-1,0});
+            location.put('D', new int[]{0,-1});
 
     }
     // 위에는 초기 세팅
