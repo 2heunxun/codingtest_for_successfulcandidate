@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.*;
 
-class Solution4 {
+class Solution04 {
     public int[] solution(int[] answers) {
 
         int[][] pattern={

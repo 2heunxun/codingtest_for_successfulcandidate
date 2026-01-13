@@ -1,7 +1,7 @@
 package org.example;
 import java.util.*;
 
-class Solution3 {
+class Solution03 {
     public int[] solution(int[] numbers) {
         HashSet<Integer> answer = new HashSet<>();
 

@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.*;
 
-public class Solution9 {
+public class Solution09 {
 
     public static void main(String[] args) {
         System.out.println(solution(10));

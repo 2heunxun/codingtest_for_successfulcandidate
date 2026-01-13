@@ -1,6 +1,6 @@
 package org.example;
 
-class Solution5 {
+class Solution05 {
     public int[][] solution(int[][] arr1, int[][] arr2) {
         int c1 = arr1.length;
         int r1 = arr1[0].length;

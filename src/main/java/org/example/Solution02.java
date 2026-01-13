@@ -3,7 +3,7 @@ package org.example;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Solution2 {
+public class Solution02 {
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(solution(new int[]{4, 2, 2, 1, 3, 4})));

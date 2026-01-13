@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.*;
 
-class Solution7 {
+class Solution07 {
     private static boolean isValidMove(int nx, int ny){
         return nx>=0 && ny >=0 && nx<11 && ny < 11;
     }

@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.*;
 
-class Solution8 {
+class Solution08 {
     boolean solution(String s) {
         ArrayDeque<Character> stack = new ArrayDeque<>();
 

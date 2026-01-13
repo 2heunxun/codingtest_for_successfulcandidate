@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.*;
 
-class Solution6 {
+class Solution06 {
     public int[] solution(int N, int[] stages) {
         int[] challenger = new int[N+2]; // 이거슨 말이다 1부터 시작이고  N+1까지의 클리어를 보니깐 N+2
         for(int stage : stages){
